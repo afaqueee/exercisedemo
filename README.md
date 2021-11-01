@@ -15,4 +15,13 @@ The following techniques have been used:
  - All the above said modelling techniques are tried and evaluated. The final metric used to evaluate is mean squared error.
 
 ## To excute the script
-Executed the file using python3
+Firstly I made changes in the nonstandard.py file like load_housing_data was missing "()" parenthesis, then I found out that fetch_housing_data() was not called so I also rectified that.
+Then I installed the conda enviornment in my system.
+Then I created the new enviornment in the conda by using-> 'conda create -n mle-dev python'
+Then activated conda enviornment using -> 'conda activate mle-dev'
+Then I installed the python libraries like
+	1. 'conda install pandas'
+	2. 'conda install matplotlib'
+	3. 'conda install sklearn'
+	4. 'conda install scikit-learn'
+And at the end I ran the python file using -> 'python nonstandard.py'.
