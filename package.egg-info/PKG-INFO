@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: package
+Version: 0.1.1
+Summary: housing data package
+Home-page: UNKNOWN
+Author: Anant Chandak
+License: UNKNOWN
+Platform: UNKNOWN
+
+A python package for housing data code
+
