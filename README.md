@@ -103,3 +103,7 @@ After running the above command, all the files will appear which we included in 
 ## HTML Files Location
 
 -The output HTML files are located under docs/_build/html in mle_training directory.
+
+## HTML Files Location
+
+-The output HTML files are located under docs/_build/html in mle_training directory.
