@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/5549e482afe545a8b4292664f7306c65/artifacts
+end_time: 1644307829652
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 5549e482afe545a8b4292664f7306c65
+run_uuid: 5549e482afe545a8b4292664f7306c65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1644307829445
+status: 3
+tags: []
+user_id: anant00

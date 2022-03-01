@@ -1,3 +1,9 @@
 include README
 include requirements.txt
+include env.yml
+include .gitignore
+include mlflowrun.py
+include LICENSE
 recursive-include datasets/ *
+recursive-include tests/ *
+recursive-include docs/ *

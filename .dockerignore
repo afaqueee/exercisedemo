@@ -1,0 +1,9 @@
+.pytest_cache
+__pycache__
+.git
+dist
+*.egg-info
+*.egg
+*.pyc
+# Compiled Documentation
+docs

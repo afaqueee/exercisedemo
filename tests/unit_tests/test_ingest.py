@@ -1,6 +1,6 @@
 import sys
 import pandas as pd
-from src.package.score import score_values
+from src.housing_package.score import score_values
 
 sys.path.append("...")
 
